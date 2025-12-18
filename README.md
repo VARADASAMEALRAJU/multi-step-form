@@ -3,7 +3,7 @@
 A functional multi-step registration form built with React, Zustand, and Tailwind CSS.
 
 ## Live Demo
-[INSERT YOUR VERCEL/NETLIFY LINK HERE]
+**URL:** [https://multi-step-form-lovat-eta.vercel.app/](https://multi-step-form-lovat-eta.vercel.app/)
 
 ## Setup Instructions
 1. Clone the repository.
